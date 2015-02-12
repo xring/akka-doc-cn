@@ -108,3 +108,5 @@ akka文档中文翻译
    * [ ] 其他语言绑定 not supported
    * [ ] Akka与OSGi not supported
    * [ ] 部分HTTP框架名单 not supported
+
+xring开始更新自己的翻译
